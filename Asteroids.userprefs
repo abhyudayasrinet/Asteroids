@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="36" Column="20" />
+      <File FileName="Assets\Scripts\ScreenWrapper.cs" Line="69" Column="4" />
+      <File FileName="Assets\Scripts\ScreenWrapperAsteroid.cs" Line="87" Column="18" />
+      <File FileName="Assets\Scripts\ScreenWrapperBolt.cs" Line="55" Column="16" />
+      <File FileName="Assets\Scripts\AsteroidMover.cs" Line="12" Column="17" />
+      <File FileName="Assets\Scripts\BoltMover.cs" Line="11" Column="30" />
+      <File FileName="Assets\Scripts\DestroyByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GhostAsteroidMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
